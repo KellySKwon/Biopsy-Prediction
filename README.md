@@ -1,4 +1,4 @@
-# Biopsy Prediction USMA Machine Learning Challenge
+# Biopsy Prediction USMA Machine Learning Challenge (September 2019)
 
 https://www.synapse.org/#!Synapse:syn19323280/wiki/
 
